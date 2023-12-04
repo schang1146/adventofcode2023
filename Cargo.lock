@@ -7,5 +7,9 @@ name = "p1a_trebuchet"
 version = "0.1.0"
 
 [[package]]
+name = "p1b_trebuchet"
+version = "0.1.0"
+
+[[package]]
 name = "runner"
 version = "0.1.0"

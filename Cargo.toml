@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "p1a_trebuchet",
+    "p1b_trebuchet",
     "runner"
 ]
 resolver = "2"

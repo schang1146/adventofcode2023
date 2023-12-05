@@ -11,5 +11,37 @@ name = "p1b_trebuchet"
 version = "0.1.0"
 
 [[package]]
+name = "p2a_cube_conundrum"
+version = "0.1.0"
+
+[[package]]
+name = "p2b_cube_conundrum"
+version = "0.1.0"
+
+[[package]]
+name = "p3a_gear_ratios"
+version = "0.1.0"
+
+[[package]]
+name = "p3b_gear_ratios"
+version = "0.1.0"
+
+[[package]]
+name = "p4a_scratchcards"
+version = "0.1.0"
+
+[[package]]
+name = "p4b_scratchcards"
+version = "0.1.0"
+
+[[package]]
+name = "p5a_if_you_give_a_seed_a_fertilizer"
+version = "0.1.0"
+
+[[package]]
+name = "p5b_if_you_give_a_seed_a_fertilizer"
+version = "0.1.0"
+
+[[package]]
 name = "runner"
 version = "0.1.0"

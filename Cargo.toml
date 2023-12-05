@@ -2,6 +2,14 @@
 members = [
     "p1a_trebuchet",
     "p1b_trebuchet",
+    "p2a_cube_conundrum",
+    "p2b_cube_conundrum",
+    "p3a_gear_ratios",
+    "p3b_gear_ratios",
+    "p4a_scratchcards",
+    "p4b_scratchcards",
+    "p5a_if_you_give_a_seed_a_fertilizer",
+    "p5b_if_you_give_a_seed_a_fertilizer",
     "runner"
 ]
 resolver = "2"
